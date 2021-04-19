@@ -9,7 +9,7 @@
 [4] Ashenden, P. J., The Designer’s Guide to VHDL, 3rd ed., Boston, MA: Morgan Kaufmann Publishers, 2008.  
 [5] Romano, D., Make: FPGAs: Turning Software into Hardware with Eight Fun and Easy DIY Projects, Make Community, 2016, p. 256.  
 [6] Haskell, R. E., and D. M. Hanna, Digital Design: Using Digilent FPGA Boards-VHDL Active-HDL Edition, LBE Books, 2018.  
-[7] Trimberger, S. M. S., “Three Ages of FPGAs: A Retrospective on the First Thirty Years of FPGA Technology: This Paper Reflects on How Moore’s Law Has Driven the Design of FPGAs Through Three Epochs: the Age of Invention, the Age of Expansion, and the Age of Accumulation,” IEEE Solid-State Circuits Magazine, Vol. 10, No. 2, 2018, pp. 16–29.  
+[7] Trimberger, S. M. S., “Three Ages of FPGAs: A Retrospective on the First Thirty Years of FPGA Technology: This Paper Reflects on How Moore’s Law Has Driven the Design of FPGAs Through Three Epochs: the Age of Invention, the Age of Expansion, and the Age of Accumulation,” IEEE Solid-State Circuits Magazine, Vol. 10, No. 2, 2018, pp. 16–29 (https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7086413).  
 [8] Churiwala, S., Designing with Xilinx® FPGAs, 1st ed., New York: Springer, 2018.  
 [9] Alfke, P., et al., “It’s an FPGA!” IEEE Solid-State Circuits Magazine, Vol. 3, No. 4, 2011, pp. 15–20.  
 [10] Freeman, R. H., “XC3000 Family of User-Programmable Gate Arrays,” Microprocessors and Microsystems, Vol. 13, No. 5, 1989, pp. 313–320.  
