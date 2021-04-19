@@ -50,5 +50,5 @@
 [45] Vuduc, R., et al., “On the Limits of GPU Acceleration,” Vol. 13, 2010, https://www.usenix.org/legacy/event/hotpar10/tech/full_papers/Vuduc.pdf.  
 [46] Lee, V. W., et al., “Debunking the 100X GPU vs. CPU Myth: An Evaluation of Throughput Computing on CPU and GPU,” 37th Annual International Symposium on Computer Architecture, 2010, pp. 451–460.  
 [47] Aktemur, B., et al., “Debugging SYCL Programs on Heterogeneous Intel® Architectures,” Proceedings of the International Workshop on OpenCL, 2020, pp. 1–10.  
-[48] Han, F., T. Zhu, and R. Meyer, “Basic Performance Analysis of NVIDIA GPU Accelerator Cards for Deep Learning Applications,” AMAX White Paper, 2016, https://pdfs.semanticscholar.org/45f6/a5ba7c1c337b0fe-883ba426aa69ec9f6d420.pdf.  
+[48] Han, F., T. Zhu, and R. Meyer, “Basic Performance Analysis of NVIDIA GPU Accelerator Cards for Deep Learning Applications,” AMAX White Paper, 2016, https://pdfs.semanticscholar.org/45f6/a5ba7c1c337b0fe-883ba426aa69ec9f6d420.pdf. (link is broken, see link https://github.com/LVFPGABOOK/Chapter-3-Background-Technology/commit/028d11a4799d0b4ce6731a2d3e1c539c780fa77c)  
 [49] Wang, Y. E., G.-Y. Wei, and D. Brooks, “Benchmarking TPU, GPU, and CPU Platforms for Deep Learning,” arXiv preprint arXiv:1907.10701, https://ui.adsabs.harvard.edu/abs/2019arXiv190710701W/abstract, 2019.  
